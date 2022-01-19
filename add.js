@@ -1,4 +1,4 @@
-const one = 1;
 const two = 2;
-const add = one - two;
+const three = 3;
+const add = three % two;
 console.log(add)
